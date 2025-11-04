@@ -1,6 +1,6 @@
 # Template for FastAPI project
 
-Copyright (c) 2025 DimaMSISur. All Rights Reserved.o
+Copyright (c) 2025 DimaMSISur. All Rights Reserved.
 
 ## Content
 
